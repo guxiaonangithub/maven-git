@@ -7,5 +7,6 @@ public class github {
 
     public  void  git(){
         int i=1;
+        System.out.println(i);
     }
 }
